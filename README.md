@@ -25,17 +25,17 @@ Pandas, Seaborn, Matplotlib
 Scikit-learn (PCA, KMeans, Hierarchical Clustering)
 
 🔍 Steps Followed
-Data Cleaning & EDA: Handled missing values, visualized KPIs
+  Data Cleaning & EDA: Handled missing values, visualized KPIs
 
-Dimensionality Reduction: PCA to simplify features
+  Dimensionality Reduction: PCA to simplify features
 
-Clustering: KMeans & Hierarchical Clustering
+  Clustering: KMeans & Hierarchical Clustering
 
-Insight Generation: Segmented players & summarized findings
+  Insight Generation: Segmented players & summarized findings
 
-Handled entire workflow: cleaning, EDA, modeling, visualization
+  Handled workflow: cleaning, EDA, modeling, visualization
 
-Created summary for non-technical understanding
+  Created summary for non-technical understanding
 
 🏆 Outcome
 Built a clustering tool for performance-based scouting
